@@ -1,4 +1,4 @@
-# Unmaintained
+# Sorta-Unmaintained
 
 This package is unmaintained by the original author. It had one pending PR that allows it to work, so I forked and merged. Have a nice day.
 

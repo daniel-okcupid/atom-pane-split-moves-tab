@@ -1,3 +1,6 @@
+## 0.1.1
+* Merge PR from [daniel-chambers](https://github.com/daniel-chambers)
+
 ## 0.1.0
 * Remove the `pane:split-*` commands, as Atom now has them built in as `pane:split-*-and-move-active-item`
 * Fix splitting from the context menu on the tabs.

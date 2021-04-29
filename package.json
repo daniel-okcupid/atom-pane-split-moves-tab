@@ -1,9 +1,9 @@
 {
   "name": "pane-split-moves-tab",
   "main": "./lib/pane-split-moves-tab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pane:split moves tab to new pane",
-  "repository": "https://github.com/olmokramer/atom-pane-split-moves-tab",
+  "repository": "https://github.com/daniel-okcupid/atom-pane-split-moves-tab",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

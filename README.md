@@ -1,6 +1,6 @@
 # Unmaintained
 
-This package is unmaintained. If you want to take over maintainance, please open an probleem and I'll try to transfer the repository to you soon.
+This package is unmaintained by the original author. It had one pending PR that allows it to work, so I forked and merged. Have a nice day.
 
 # pane-split-moves-tab package
 
